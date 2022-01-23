@@ -12,13 +12,13 @@ Um One Page é um resumo muito simples e direto ao ponto, usado pela equipe de g
 
 Exemplo de OnePage:
 
-O seu papel, como Analista de Dados, é conseguir criar um processo da forma mais automática possível para calcular o OnePage de cada loja e enviar um email para o gerente de cada loja com o seu OnePage no corpo do e-mail e também o arquivo completo com os dados da sua respectiva loja em anexo.
+Nosso papelc como analista de dados é conseguir criar um processo da forma mais automática possível para calcular o OnePage de cada loja e enviar um email para o gerente de cada loja com o seu OnePage no corpo do e-mail e também o arquivo completo com os dados da sua respectiva loja em anexo.
 
 Ex: O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo
 
 ### Arquivos e Informações Importantes
 
-- Arquivo Emails.xlsx com o nome, a loja e o e-mail de cada gerente. Obs: Sugiro substituir a coluna de e-mail de cada gerente por um e-mail seu, para você poder testar o resultado
+- Arquivo Emails.xlsx com o nome, a loja e o e-mail de cada gerente.
 
 - Arquivo Vendas.xlsx com as vendas de todas as lojas. Obs: Cada gerente só deve receber o OnePage e um arquivo em excel em anexo com as vendas da sua loja. As informações de outra loja não devem ser enviados ao gerente que não é daquela loja.
 
